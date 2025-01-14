@@ -2,8 +2,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
 </a>
 
+# For the comprehensive analysis of this project, please review my Medium Blog. [Here](https://medium.com/@kshitijachilbule2/customer-churn-analysis-in-bank-07bd1ce19090)
+
 # Bank Customer Churn
-<img src="https://github.com/user-attachments/assets/cc2a5649-6852-477f-aa1a-6256397d679a" alt="excel-icon" width="60" height="50">
 
 ## Table of Contents
 - [Overview](#overview)
@@ -16,7 +17,7 @@ This project focuses on building an interactive Excel dashboard to analyze the k
 ## Dashboard Preview
 [Link to the Live Dashboard](https://1drv.ms/x/s!AsfVuegsefXJjVc8rZZry3qv6ncP?e=SraSTJ&nav=MTVfezkwNEM3Q0U3LUExMUYtNEVGOC1CQzFFLTVBMzNENjY1NDE1RX0)
 
-![dashboard](https://github.com/user-attachments/assets/b500891b-a00c-4f15-be12-4b6a91ff7803)
+![dashboard](https://github.com/user-attachments/assets/1cd90437-b4d4-4ab1-85c5-705e8a0d7897)
 
 
 ## Data Summary
@@ -39,9 +40,8 @@ This project focuses on building an interactive Excel dashboard to analyze the k
 - <b>Card Type—</b> Type of card hold by the customer.
 - <b>Points Earned—</b> the points earned by the customer for using a credit card.
 
-# For the comprehensive analysis of this project, please review my Medium Blog. [Here](https://medium.com/@kshitijachilbule2/customer-churn-analysis-in-bank-07bd1ce19090)
-
 # Connect🤝
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
 - 👩‍💻 <b>Github:</b> https://github.com/itskshitija
 - 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 📜 <b>Medium: </b> https://medium.com/@kshitijachilbule2
