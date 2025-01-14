@@ -13,11 +13,11 @@ Uncover insights into customer behavior and sales trends during the festive seas
 - [Summary of Insights](#summary-of-insights)
 
 ## 📊Dashboard Preview 
-![dashb1](https://github.com/user-attachments/assets/53ba8c5d-52c8-4ef3-aba4-7984d6ea8fbf)
+![Screenshot 2024-12-24 204616](https://github.com/user-attachments/assets/ed7556f9-f46f-4ee6-9d2f-0a754fdac5fa)
 
-![dashb2](https://github.com/user-attachments/assets/05c64877-0e97-458b-bc66-d6336aa8d765)
+![Screenshot 2024-12-24 204651](https://github.com/user-attachments/assets/dd1fce2f-d525-42ea-8ae1-7a512066842a)
 
-![dashb3](https://github.com/user-attachments/assets/5418aef9-dc29-4674-ac03-99e64356ec10)
+![Screenshot 2024-12-24 204719](https://github.com/user-attachments/assets/da05c5d8-324f-42ed-9ede-43446c29c8f4)
 
 
 ## 🔍Overview 
@@ -30,8 +30,7 @@ The insights aim to support decision-making for holiday campaigns and optimize f
 
 ## 🔠Data Summary 
 
-![image](https://github.com/user-attachments/assets/4392d634-9cb9-4d06-b4b2-a00e5e718eac)
-
+![image](https://github.com/user-attachments/assets/f266aa57-977b-4d50-b94f-3c3f28e4058a)
 
 ## 📶Business Questions 
 *1. How do sales volumes fluctuate during Christmas compared to other periods in the dataset?*
@@ -81,3 +80,4 @@ The insights aim to support decision-making for holiday campaigns and optimize f
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
 - 👩‍💻 <b>Github:</b> https://github.com/itskshitija
 - 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 📜 <b>Medium:</b> https://medium.com/@kshitijachilbule2
