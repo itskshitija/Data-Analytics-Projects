@@ -16,6 +16,7 @@
 The HR Data Analytics Dashboard project analyzes employee data in depth to derive actionable insights for the Human Resources department. It leverages Power BI to visualize critical HR metrics and KPIs, enabling HR teams to make data-driven decisions to improve workforce management, employee satisfaction, and organizational growth.
 
 ## **Dashboard Preview**
+
 ![HrDataAnalysis](https://github.com/user-attachments/assets/97e18089-0c96-4015-8f6d-07883240dacf)
 
 
