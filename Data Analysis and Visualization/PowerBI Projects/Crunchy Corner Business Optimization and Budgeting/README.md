@@ -3,6 +3,16 @@
 # For the Comprehensive Analysis and Insights of this project, please consider reading my Medium Blog. I am attaching a link here 👉 [Link](https://medium.com/@kshitijachilbule2/optimizing-business-and-budgeting-strategies-for-crunchy-corner-d5df736dc7e2)
 
 ## 💡Introduction
+Crunchy Corner is one of India's largest fast-food restaurant chains, serving millions of customers daily across various cities in India with more than 1000 restaurants and having the largest SKU (Stock Keeping Units) in the industry.
+
+Objective of this project is to design a comprehensive dashboard that focuses on three key areas: 👇
+
+👉 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐌𝐞𝐭𝐫𝐢𝐜𝐬: Providing a clear snapshot of key financial indicators to monitor performance effectively.
+
+👉𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬: Identifying actionable insights to enhance operational efficiency and drive growth.
+
+👉𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐥𝐚𝐧𝐧𝐢𝐧𝐠 & 𝐁𝐮𝐝𝐠𝐞𝐭𝐢𝐧𝐠: Facilitating strategic planning by enabling accurate budgeting and resource allocation.
+
 ## 🔍Data Dictionary
 - **Year:** Financial years in which the business operations are recorded.
 - **Quarter:** Financial quarters (Q1, Q2, Q3, Q4) used for quarterly analysis.
@@ -39,5 +49,6 @@
 - **Net Profit:** The final profit after deducting all expenses, taxes, and one-off items from gross profit.
 
 ## 🥅Model View
-![image](https://github.com/user-attachments/assets/f07d931c-d891-4651-ab48-8ee03b9152bb)
+![image](https://github.com/user-attachments/assets/35a2f7cf-fd5f-4e95-9f50-a86dc1adb21a)
+
 
