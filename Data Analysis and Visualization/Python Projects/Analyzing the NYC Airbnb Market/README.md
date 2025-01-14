@@ -76,4 +76,4 @@ To explore and understand the dynamics of Airbnb listings in NYC, focusing on fa
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
 - 👩‍💻 <b>Github:</b> https://github.com/itskshitija
 - 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
-- 🌐 <b>Portfolio:</b> https://itskshitija.github.io/My-Portfolio/
+- 🌐 <b>Medium:</b> https://medium.com/@kshitijachilbule2
