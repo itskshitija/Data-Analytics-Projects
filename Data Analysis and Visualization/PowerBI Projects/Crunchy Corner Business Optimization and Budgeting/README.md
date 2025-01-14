@@ -13,6 +13,36 @@ Objective of this project is to design a comprehensive dashboard that focuses on
 
 👉𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐥𝐚𝐧𝐧𝐢𝐧𝐠 & 𝐁𝐮𝐝𝐠𝐞𝐭𝐢𝐧𝐠: Facilitating strategic planning by enabling accurate budgeting and resource allocation.
 
+## PowerBI Report Preview
+As per the client’s demands and based on the acceptance criteria we have created Eight separate dashboards namely —
+
+1. Performance Analysis Dashboard
+2. Cost Analysis Dashboard
+3. SKU Level Turnover Dashboard
+4. Budgeting Analysis Dashboard
+5. Product Analysis Dashboard
+6. Quadrant Analysis Dashboard
+7. Pareto Analysis Dashboard
+8. Variance Analysis Dashboard
+
+![Screenshot 2025-01-08 003148](https://github.com/user-attachments/assets/173e694f-e526-4a64-ba42-02aa7a04bd53)
+
+![Screenshot 2025-01-08 003541](https://github.com/user-attachments/assets/c63471d7-e051-458e-994c-b89354589d13)
+
+![Screenshot 2025-01-13 105945](https://github.com/user-attachments/assets/46ce9654-6789-4712-8803-5007f3d8c003)
+
+![Screenshot 2025-01-13 110659](https://github.com/user-attachments/assets/a897bd57-7f5f-487c-9f02-a4e9ab964065)
+
+![Screenshot 2025-01-13 110731](https://github.com/user-attachments/assets/52b9e64d-685e-496a-8f33-8d653e0be892)
+
+![Screenshot 2025-01-13 110910](https://github.com/user-attachments/assets/37312b07-8af9-4e50-84ca-7f0247925822)
+
+![Screenshot 2025-01-13 110945](https://github.com/user-attachments/assets/9c2b972f-ad12-4f74-a48c-efe6eb3a2b2c)
+
+![Screenshot 2025-01-13 111014](https://github.com/user-attachments/assets/d5172008-4a0c-4fa6-9b22-118b5fac881c)
+
+
+
 ## 🔍Data Dictionary
 - **Year:** Financial years in which the business operations are recorded.
 - **Quarter:** Financial quarters (Q1, Q2, Q3, Q4) used for quarterly analysis.
