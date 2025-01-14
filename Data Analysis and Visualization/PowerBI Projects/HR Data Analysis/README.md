@@ -4,6 +4,8 @@
 
 # **HR Data Analytics Dashboard**
 
+# For a Comprehensive overview and detailed insights, please read my Medium Article [Here](https://medium.com/@kshitijachilbule2/predicting-employee-behavior-hr-analytics-8619586ea867)
+
 ## `Power BI 📊` `Data Analysis 💼` `Human Resources Insights 👥`
 
 ### **Table of Contents**
@@ -13,16 +15,8 @@
 ## **Project Overview**
 The HR Data Analytics Dashboard project analyzes employee data in depth to derive actionable insights for the Human Resources department. It leverages Power BI to visualize critical HR metrics and KPIs, enabling HR teams to make data-driven decisions to improve workforce management, employee satisfaction, and organizational growth.
 
-# For a Comprehensive overview and detailed insights, please read my Medium Article [Here](https://medium.com/@kshitijachilbule2/predicting-employee-behavior-hr-analytics-8619586ea867)
-
-# Dashboard [Here](https://github.com/itskshitija/HR-Data-Analysis/blob/main/HR%20Data%20Analytics%20dashboard.pbix)
-
-
-
-
 ## **Dashboard Preview**
-
-![HrDataAnalysis](https://github.com/user-attachments/assets/5d67dc9d-e75f-4174-a8df-7c713276e156)
+![HrDataAnalysis](https://github.com/user-attachments/assets/97e18089-0c96-4015-8f6d-07883240dacf)
 
 
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
