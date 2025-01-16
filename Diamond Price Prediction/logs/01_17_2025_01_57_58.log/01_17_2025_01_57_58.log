@@ -1,0 +1,6 @@
+[ 2025-01-17 01:57:59,278 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-01-17 01:58:00,263 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-17 01:58:00,263 ] 97 werkzeug - INFO -  * Debugger PIN: 355-242-101
+[ 2025-01-17 01:59:27,557 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/Jan/2025 01:59:27] "[33mGET /index.html HTTP/1.1[0m" 404 -
+[ 2025-01-17 01:59:27,621 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/Jan/2025 01:59:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-01-17 01:59:58,869 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/Jan/2025 01:59:58] "[33mGET /index.html HTTP/1.1[0m" 404 -
