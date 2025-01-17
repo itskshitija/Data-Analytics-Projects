@@ -1,2 +1,2 @@
-# Data Science Portfolio - Kshitija Chilbule
+# Data Analytics Projects - Kshitija Chilbule
 
